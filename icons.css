@@ -1,0 +1,40 @@
+.icon-custom {
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.icon-tv {
+    background-image: url('tv.svg');
+}
+
+.icon-cast {
+    background-image: url('cast.png');
+}
+
+.icon-building {
+    background-image: url('building.png');
+}
+
+.icon-butler {
+    background-image: url('butler.png');
+}
+
+.icon-yt-kids {
+    background-image: url('youtubekids.png');
+}
+
+.icon-youtube {
+    background-image: url('youtube.png');
+}
+
+
+.icon-dining {
+    background-image: url('dining.png');
+}
+
+.icon-tripadvisor {
+    background-image: url('tripadvisor.png');
+}
